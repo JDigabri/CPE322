@@ -39,6 +39,8 @@ print("Hello, world!")
 
 ### Links and Images
 
+---
+
 #### Useful Links
 
 - [Markdown Guide](https://www.markdowntutorial.com/)
