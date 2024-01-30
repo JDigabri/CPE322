@@ -4,29 +4,29 @@ Welcome to my course repository!
 
 ## Introduction
 
-This repository contains materials and resources for the course.
+I'm John DiGabriele a 3/4 Computer engineering major here at Stevens
 
-**Bold Text Example**
+**John DiGabriele**
 
-*Italic Text Example*
+*3/4 CPE Major*
 
 > Block Quote:
 > 
-> "Quote"
+> "In the middle of difficulty lies opportunity." - Albert Einstein
 
 ### Lists
 
-#### Ordered List
+#### Hobbies
 
-1. First item
-2. Second item
-3. Third item
+1. Video Games
+2. Computers
+3. Movies
 
-#### Unordered List
+#### Things I like to Drink
 
-- Item one
-- Item two
-- Item three
+- Coffee
+- Tea
+- Soda
 
 ### Code
 
@@ -34,7 +34,7 @@ Inline `code` example.
 
 ```python
 # Code block example
-print("Hello, world!")
+print("Hello, Wellcome to my repo!")
 ```
 
 ### Links and Images
